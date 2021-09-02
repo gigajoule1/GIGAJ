@@ -5,7 +5,8 @@ ACCOUNTS=[
 "GCL2EXSTHUTSDP75K6X6QIPHXNZ2Y55KC2H3BULW3FT53JGDVHYC4HFU",
 "GB5NVPPV35WC2HXYTS73UGCQGYKJ5SZRD7P267LTRJRKGD53NDKKAXQ3",
 "GC3UH7BS22Z4FUVVJJL3JBJGBM3MEGGYBTVLIS53EZMZXZCDHXO2D3FH",
-"GA765T7V2VHC5MTXN2LNLBKKW3OLISEC7IUGIECAP4WUAXZZRHRVIS2J"
+"GA765T7V2VHC5MTXN2LNLBKKW3OLISEC7IUGIECAP4WUAXZZRHRVIS2J",
+"GCUKHGFUA3GP64NC2K2DTQV4DB3LAM6NLZCHSPEU4256YVVCVM3TR3PF"
 ]
 VERSION="2.0.0"
 
@@ -81,6 +82,20 @@ fixed_number=100000
 max_number=100000
 is_unlimited=false
 #Rhodium was issued using the open and inclusive Stellar blockchain network.
+
+
+[[CURRENCIES]]
+code="xcs"
+issuer="GCUKHGFUA3GP64NC2K2DTQV4DB3LAM6NLZCHSPEU4256YVVCVM3TR3PF"
+anchor_asset="false"
+name="Caesium"
+desc="Caesium is a soft, gold-coloured metal that is quickly attacked by air and reacts explosively in water. Uses. The most common use for caesium compounds is as a drilling fluid."
+image="https://i.ibb.co/fppWcq1/caesium.png"
+fixed_number=250000
+max_number=250000
+is_unlimited=false
+#Caesium was issued using the open and inclusive Stellar blockchain network.
+
 
 
 
