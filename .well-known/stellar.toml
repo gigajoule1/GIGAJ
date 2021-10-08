@@ -6,7 +6,8 @@ ACCOUNTS=[
 "GB5NVPPV35WC2HXYTS73UGCQGYKJ5SZRD7P267LTRJRKGD53NDKKAXQ3",
 "GC3UH7BS22Z4FUVVJJL3JBJGBM3MEGGYBTVLIS53EZMZXZCDHXO2D3FH",
 "GA765T7V2VHC5MTXN2LNLBKKW3OLISEC7IUGIECAP4WUAXZZRHRVIS2J",
-"GCUKHGFUA3GP64NC2K2DTQV4DB3LAM6NLZCHSPEU4256YVVCVM3TR3PF"
+"GCUKHGFUA3GP64NC2K2DTQV4DB3LAM6NLZCHSPEU4256YVVCVM3TR3PF",
+"GBIKIDQXJC2ZHHI4DPSVPUHHSY6QPNUDT5F6EXTSGTP4NYSCZDDWYPXZ"
 ]
 VERSION="2.0.0"
 
@@ -101,6 +102,20 @@ fixed_number=250000
 max_number=250000
 is_unlimited=false
 #Caesium was issued using the open and inclusive Stellar blockchain network.
+
+
+[[CURRENCIES]]
+code="xpu"
+issuer="GBIKIDQXJC2ZHHI4DPSVPUHHSY6QPNUDT5F6EXTSGTP4NYSCZDDWYPXZ"
+anchor_asset_type="crypto"
+anchor_asset="encke"
+name="Plutonium"
+desc="Plutonium is a radioactive chemical element with the symbol Pu and atomic number 94. It is an actinide metal of silvery-gray appearance that tarnishes when exposed to air, and forms a dull coating when oxidized."
+image="https://i.ibb.co/mGxJv8N/plutonium.png"
+fixed_number=100000
+max_number=100000
+is_unlimited=false
+#Plutonium was issued using the open and inclusive Stellar blockchain network.
 
 
 
