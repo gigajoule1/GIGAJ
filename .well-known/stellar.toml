@@ -7,7 +7,8 @@ ACCOUNTS=[
 "GC3UH7BS22Z4FUVVJJL3JBJGBM3MEGGYBTVLIS53EZMZXZCDHXO2D3FH",
 "GA765T7V2VHC5MTXN2LNLBKKW3OLISEC7IUGIECAP4WUAXZZRHRVIS2J",
 "GCUKHGFUA3GP64NC2K2DTQV4DB3LAM6NLZCHSPEU4256YVVCVM3TR3PF",
-"GBIKIDQXJC2ZHHI4DPSVPUHHSY6QPNUDT5F6EXTSGTP4NYSCZDDWYPXZ"
+"GBIKIDQXJC2ZHHI4DPSVPUHHSY6QPNUDT5F6EXTSGTP4NYSCZDDWYPXZ",
+"GDOSRVHMQPZE26Y2RIF65XRIQWT4DLFUMDHDX4D4W257LE7VY3ELPPH3"
 ]
 VERSION="2.0.0"
 
@@ -118,6 +119,17 @@ is_unlimited=false
 #Plutonium was issued using the open and inclusive Stellar blockchain network.
 
 
-
+[[CURRENCIES]]
+code="xli"
+issuer="GDOSRVHMQPZE26Y2RIF65XRIQWT4DLFUMDHDX4D4W257LE7VY3ELPPH3"
+anchor_asset_type="crypto"
+anchor_asset="lithium"
+name="Lithium"
+desc="As the name implies, lithium is a crucial mineral used in lithium-ion batteries, which are becoming more vital in sectors such as electric cars and renewable energy storage."
+image="https://i.ibb.co/021rwLd/lithium-logo.png"
+fixed_number=640
+max_number=640
+is_unlimited=false
+#Lithium was issued using the open and inclusive Stellar blockchain network.
 
 
