@@ -21,14 +21,10 @@ ORG_TWITTER="@ChemiTokens"
 ORG_LOGO="https://i.ibb.co/G3YMZjm/chemitokens-logo.png"
 ORG_OFFICIAL_EMAIL="chemitokens@gmail.com"
 
-[[PRINCIPALS]]
-name="Jacob Brime"
-email="chemitokens@gmail.com"
 
 [[CURRENCIES]]
 code="xcb"
 issuer="GAIMV36WSTXZTW22DAGKMO34N4CWTOC4CZCKEAUIEHT47DQ2VS5FHJLY"
-is_asset_anchored=true
 anchor_asset_type="crypto"
 anchor_asset="Cobalt"
 name="Cobalt"
@@ -43,7 +39,6 @@ is_unlimited=false
 [[CURRENCIES]]
 code="xcp"
 issuer="GCL2EXSTHUTSDP75K6X6QIPHXNZ2Y55KC2H3BULW3FT53JGDVHYC4HFU"
-is_asset_anchored=true
 anchor_asset_type="crypto"
 anchor_asset="Copper"
 name="Copper"
@@ -58,7 +53,6 @@ is_unlimited=false
 [[CURRENCIES]]
 code="xhg"
 issuer="GB5NVPPV35WC2HXYTS73UGCQGYKJ5SZRD7P267LTRJRKGD53NDKKAXQ3"
-is_asset_anchored=true
 anchor_asset_type="crypto"
 anchor_asset="Mercury"
 name="Mercury"
@@ -73,7 +67,6 @@ is_unlimited=false
 [[CURRENCIES]]
 code="xi"
 issuer="GC3UH7BS22Z4FUVVJJL3JBJGBM3MEGGYBTVLIS53EZMZXZCDHXO2D3FH"
-is_asset_anchored=true
 anchor_asset_type="crypto"
 anchor_asset="Iodine"
 name="Iodine"
@@ -88,7 +81,6 @@ is_unlimited=false
 [[CURRENCIES]]
 code="xrh"
 issuer="GA765T7V2VHC5MTXN2LNLBKKW3OLISEC7IUGIECAP4WUAXZZRHRVIS2J"
-is_asset_anchored=true
 anchor_asset_type="crypto"
 anchor_asset="Rhodium"
 name="Rhodium"
@@ -103,7 +95,6 @@ is_unlimited=false
 [[CURRENCIES]]
 code="xcs"
 issuer="GCUKHGFUA3GP64NC2K2DTQV4DB3LAM6NLZCHSPEU4256YVVCVM3TR3PF"
-is_asset_anchored=true
 anchor_asset_type="crypto"
 anchor_asset="Caesium"
 name="Caesium"
@@ -118,7 +109,6 @@ is_unlimited=false
 [[CURRENCIES]]
 code="xpu"
 issuer="GBIKIDQXJC2ZHHI4DPSVPUHHSY6QPNUDT5F6EXTSGTP4NYSCZDDWYPXZ"
-is_asset_anchored=true
 anchor_asset_type="crypto"
 anchor_asset="Plutonium"
 name="Plutonium"
@@ -133,7 +123,6 @@ is_unlimited=false
 [[CURRENCIES]]
 code="xli"
 issuer="GDOSRVHMQPZE26Y2RIF65XRIQWT4DLFUMDHDX4D4W257LE7VY3ELPPH3"
-is_asset_anchored=true
 anchor_asset_type="crypto"
 anchor_asset="Lithium"
 name="Lithium"
@@ -149,7 +138,6 @@ is_unlimited=false
 code="XRHG"
 issuer="GAC5B37HULV6E2BP4G4MMNDV36W5NAUIZUVAPJGTYPUNQCHLO45XQJLM"
 anchor_asset_type="crypto"
-is_asset_anchored=true
 anchor_asset="Rhodium"
 name="Rhodium Gold"
 desc="GOLD MEANS DIVIDENDS. The purest rhodium obtained throught 3 types of purifying. By holding 5 dividend token or more, you receive 1,24 or more of standart Rhodium (xrh)."
