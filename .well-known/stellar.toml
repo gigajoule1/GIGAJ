@@ -38,6 +38,8 @@ is_unlimited=false
 [[CURRENCIES]]
 code="xcp"
 issuer="GCL2EXSTHUTSDP75K6X6QIPHXNZ2Y55KC2H3BULW3FT53JGDVHYC4HFU"
+is_asset_anchored="true"
+status="live"
 anchor_asset_type="crypto"
 anchor_asset="xcp"
 name="Copper"
