@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://gigajoule.netlify.app"
+  to = "https://www.gigajoule.co.za/"
+  status = 301
+  force = true
