@@ -1,135 +1,27 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GAIMV36WSTXZTW22DAGKMO34N4CWTOC4CZCKEAUIEHT47DQ2VS5FHJLY",
-"GCL2EXSTHUTSDP75K6X6QIPHXNZ2Y55KC2H3BULW3FT53JGDVHYC4HFU",
-"GB5NVPPV35WC2HXYTS73UGCQGYKJ5SZRD7P267LTRJRKGD53NDKKAXQ3",
-"GC3UH7BS22Z4FUVVJJL3JBJGBM3MEGGYBTVLIS53EZMZXZCDHXO2D3FH",
-"GA765T7V2VHC5MTXN2LNLBKKW3OLISEC7IUGIECAP4WUAXZZRHRVIS2J",
-"GCUKHGFUA3GP64NC2K2DTQV4DB3LAM6NLZCHSPEU4256YVVCVM3TR3PF",
-"GBIKIDQXJC2ZHHI4DPSVPUHHSY6QPNUDT5F6EXTSGTP4NYSCZDDWYPXZ",
-"GDOSRVHMQPZE26Y2RIF65XRIQWT4DLFUMDHDX4D4W257LE7VY3ELPPH3",
+"GAYUWL4SGYMRWPGDUH3MV434LYB6EFHKUU57BW6QCZKOLRHKXOOQSF3F",
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="ChemiTokens"
-ORG_URL="https://www.chemitokens.org"
-ORG_DESCRIPTION="The chemitoken is the future project that will grow exponentially and you need a single team that works together with one brief, one objective, one goal. ChemiToken will empower the crypto community with the ability to stabilize their portfolios by investing in real commodities."
-ORG_TWITTER="@ChemiTokens"
-ORG_LOGO="https://i.ibb.co/G3YMZjm/chemitokens-logo.png"
-ORG_OFFICIAL_EMAIL="chemitokens@gmail.com"
+ORG_NAME="Gigajoule Group"
+ORG_URL="https://www.gigajoule.co.za/"
+ORG_DESCRIPTION="To be the leader in Natural Gas and Natural Gas related infrastructure investment, research, development and operations in Southern Africa"
+ORG_LOGO="https://i.ibb.co/hsLsStY/logo.png"
+ORG_OFFICIAL_EMAIL="gigajoule@proton.me"
 
 
 [[CURRENCIES]]
-code="xcb"
-issuer="GAIMV36WSTXZTW22DAGKMO34N4CWTOC4CZCKEAUIEHT47DQ2VS5FHJLY"
+code="GIGAJ"
+issuer="GAYUWL4SGYMRWPGDUH3MV434LYB6EFHKUU57BW6QCZKOLRHKXOOQSF3F"
 anchor_asset_type="crypto"
-anchor_asset="xcb"
-name="Cobalt"
-desc="Cobalt is an essential mineral used for batteries in electric cars, computers, and cell phones. Demand for cobalt is increasing as more electric cars are sold, particularly in Europe, where governments are encouraging the sales with generous environmental bonuses."
-image="https://i.ibb.co/LvRv9fM/cobalt.png"
-fixed_number=10000000
-max_number=10000000
+anchor_asset="GIGAJ"
+name="GigaJoule"
+desc="To be the leader in Natural Gas and Natural Gas related infrastructure investment, research, development and operations in Southern Africa"
+image="https://i.ibb.co/S5v7HXK/icon-converting.png"
+fixed_number=1000000
+max_number=1000000
 is_unlimited=false
-#Cobalt was issued using the open and inclusive Stellar blockchain network.
-
-
-[[CURRENCIES]]
-code="xcp"
-issuer="GCL2EXSTHUTSDP75K6X6QIPHXNZ2Y55KC2H3BULW3FT53JGDVHYC4HFU"
-is_asset_anchored=true
-status="live"
-anchor_asset_type="crypto"
-anchor_asset="xcp"
-name="Copper"
-desc="The copper industry is a major contributor to the global economy. Copper is more than just a mined metal; it provides jobs and promotes of a higher standard of living. The copper industry provides benefits to more than just the companies mining copper and fabricating products from it."
-image="https://i.ibb.co/0Z46DN9/copper.png"
-fixed_number=10000000
-max_number=10000000
-is_unlimited=false
-#Copper was issued using the open and inclusive Stellar blockchain network.
-
-
-[[CURRENCIES]]
-code="xhg"
-issuer="GB5NVPPV35WC2HXYTS73UGCQGYKJ5SZRD7P267LTRJRKGD53NDKKAXQ3"
-anchor_asset_type="crypto"
-anchor_asset="xhg"
-name="Mercury"
-desc="Mercury can be used to make thermometers, barometers and other scientific instruments. Mercury conducts electricity and is used to make silent, position dependent switches."
-image="https://i.ibb.co/BskWxgt/mercury.png"
-fixed_number=100000
-max_number=100000
-is_unlimited=false
-#Mercury was issued using the open and inclusive Stellar blockchain network.
-
-
-[[CURRENCIES]]
-code="xi"
-issuer="GC3UH7BS22Z4FUVVJJL3JBJGBM3MEGGYBTVLIS53EZMZXZCDHXO2D3FH"
-anchor_asset_type="crypto"
-anchor_asset="xi"
-name="Iodine"
-desc="Iodine is a nonmetallic, nearly black solid at room temperature and has a glittering crystalline appearance.Elemental iodine is used as an antiseptic and may also be used to treat iodine deficiency."
-image="https://i.ibb.co/Ydkc0Qd/iodine.png"
-fixed_number=500000
-max_number=500000
-is_unlimited=false
-#Iodine was issued using the open and inclusive Stellar blockchain network.
-
-
-[[CURRENCIES]]
-code="xrh"
-issuer="GA765T7V2VHC5MTXN2LNLBKKW3OLISEC7IUGIECAP4WUAXZZRHRVIS2J"
-anchor_asset_type="crypto"
-anchor_asset="xrh"
-name="Rhodium"
-desc="Rhodium is a silver-white metallic element that is highly reflective and resistant to corrosion. It is considered the rarest and most valuable precious metal in the world."
-image="https://i.ibb.co/8N1KzjD/rhodium.png"
-fixed_number=100000
-max_number=100000
-is_unlimited=false
-#Rhodium was issued using the open and inclusive Stellar blockchain network.
-
-
-[[CURRENCIES]]
-code="xcs"
-issuer="GCUKHGFUA3GP64NC2K2DTQV4DB3LAM6NLZCHSPEU4256YVVCVM3TR3PF"
-anchor_asset_type="crypto"
-anchor_asset="xcs"
-name="Caesium"
-desc="Caesium is a soft, gold-coloured metal that is quickly attacked by air and reacts explosively in water. Uses. The most common use for caesium compounds is as a drilling fluid."
-image="https://i.ibb.co/fppWcq1/caesium.png"
-fixed_number=250000
-max_number=250000
-is_unlimited=false
-#Caesium was issued using the open and inclusive Stellar blockchain network.
-
-
-[[CURRENCIES]]
-code="xpu"
-issuer="GBIKIDQXJC2ZHHI4DPSVPUHHSY6QPNUDT5F6EXTSGTP4NYSCZDDWYPXZ"
-anchor_asset_type="crypto"
-anchor_asset="xpu"
-name="Plutonium"
-desc="Plutonium is a radioactive chemical element with the symbol Pu and atomic number 94. It is an actinide metal of silvery-gray appearance that tarnishes when exposed to air, and forms a dull coating when oxidized."
-image="https://i.ibb.co/mGxJv8N/plutonium.png"
-fixed_number=100000
-max_number=100000
-is_unlimited=false
-#Plutonium was issued using the open and inclusive Stellar blockchain network.
-
-
-[[CURRENCIES]]
-code="xli"
-issuer="GDOSRVHMQPZE26Y2RIF65XRIQWT4DLFUMDHDX4D4W257LE7VY3ELPPH3"
-anchor_asset_type="crypto"
-anchor_asset="xli"
-name="Lithium"
-desc="As the name implies, lithium is a crucial mineral used in lithium-ion batteries, which are becoming more vital in sectors such as electric cars and renewable energy storage."
-image="https://i.ibb.co/021rwLd/lithium-logo.png"
-fixed_number=640
-max_number=640
-is_unlimited=false
-#Lithium was issued using the open and inclusive Stellar blockchain network.
+#GigaJoule was issued using the open and inclusive Stellar blockchain network.
